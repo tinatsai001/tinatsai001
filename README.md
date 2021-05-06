@@ -1,4 +1,3 @@
-[![Header](https://raw.githubusercontent.com/tinatsai001/<OWNER>/<OWNER>/readme_header.png "IMG_0354_jpg.JPG")](https://some-url.dev/)
 
 
 <!--
