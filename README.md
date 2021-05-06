@@ -1,4 +1,13 @@
+# Hi, I'm Tina 🌸
+
 <img src=https://github.com/tinatsai001/tinatsai001/blob/main/header.png>
+
+## About Me
+🌱 I am a Master of Business Analytics student studying how advanced analytics can make data-driven business decisions. I am currently learning Forecasting and Time Series Prediction and Machine Learning. I am passionate about retail/e-commerce and how digital tools can drive value and improve customer experiences. I have a background in business, consulting, and ecommerce, and a desire to learn more about data science. When I am not creating models or debugging code, I am baking away, creating portraits, finding ways to support the AAPI community, and picking up new skills like Procreate. 
+
+## Find me on the web 🌎
+- Reach me at tinatsai001@gmail.com 💻
+- Sharing updates on <a href="https://www.linkedin.com/in/tinatsaiubc/">LinkedIn</a> 💼
 
 <!--
 **tinatsai001/tinatsai001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
